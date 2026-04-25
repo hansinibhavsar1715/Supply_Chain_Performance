@@ -81,21 +81,21 @@ This dataset helps analyze logistics efficiency, customer delivery performance, 
 * Profit Analysis by Delay Days
 * Late Delivery Percentage
 * Executive KPI Cards
-  
+![Dashboard 1](https://github.com/hansinibhavsar1715/Supply_Chain_Performance/blob/main/Screenshot%202026-04-25%20203218.png )
 ### Page 2 – Bottleneck Detection Dashboard
 * Delay % by Region
 * Delay % by Customer Segment
 * Delay % by Shipping Mode
 * Top Drivers of Late Delivery
 * Root Cause Analysis
-
+![Dashboard 2](https://github.com/hansinibhavsar1715/Supply_Chain_Performance/blob/main/Screenshot%202026-04-25%20203226.png )
 ### Page 3 – Time Trend + Predictive Intelligence
 * Delay % Trend Over Month
 * Delay % by Day of Week
 * Delay % by Hour
 * Late Delivery Risk Prediction
 * Time-Based KPI Monitoring
-
+![Dashboard 3](https://github.com/hansinibhavsar1715/Supply_Chain_Performance/blob/main/Screenshot%202026-04-25%20203234.png)
 ## Key Insights
 * Delivery delays significantly reduce profitability and increase operational losses
 * Certain regions show consistently higher late delivery percentages
